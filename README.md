@@ -1,5 +1,5 @@
 # netflix-data-analysis-beginner
-yeni başlarken VSCODE'da Python ve Sql'de yaptığım analizler
+yeni başlarken VSCODE'da Python, Sql ve jupyterNootebok'da yaptığım analizler
 
 Bu benim ilk veri analizi projem! Kaggle'dan indirdiğim dosya ile Netflix film ve TV şovu verilerini analiz ettim.
 
@@ -13,7 +13,9 @@ Netflix'teki film ve TV şovlarının dağılımını, en yeni içerikleri ve ü
 - Python
 - Veri Analizi
 - Kaggle
-
+- Pandas
+- Jupyter Notebook
+- 
 ## Analiz Sonuçları
 
 - **Toplam 8,807 içerik**
@@ -21,9 +23,11 @@ Netflix'teki film ve TV şovlarının dağılımını, en yeni içerikleri ve ü
   - 2,676 TV Şovu
 - En fazla içerik üreten ülkeler
 - En yeni filmler ve TV şovları
-
+- Rating skorları
+- 
 ## Dosya Yapısı
 
 - `data/netflix_titles.csv` - Ham veri
 - `netflix_analiz.sql` - SQL sorguları
 - `netflix_analiz.py` - Python analizleri
+- `netflix_analysis.ipynb` - Pandas analizleri
