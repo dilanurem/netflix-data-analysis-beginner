@@ -15,7 +15,7 @@ Netflix'teki film ve TV şovlarının dağılımını, en yeni içerikleri ve ü
 - Kaggle
 - Pandas
 - Jupyter Notebook
-- 
+  
 ## Analiz Sonuçları
 
 - **Toplam 8,807 içerik**
@@ -24,7 +24,7 @@ Netflix'teki film ve TV şovlarının dağılımını, en yeni içerikleri ve ü
 - En fazla içerik üreten ülkeler
 - En yeni filmler ve TV şovları
 - Rating skorları
-- 
+  
 ## Dosya Yapısı
 
 - `data/netflix_titles.csv` - Ham veri
